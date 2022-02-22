@@ -9,6 +9,6 @@ Dank des erfolgreich absolvierten Mathematikstudiums wird jetzt die Gleichwertig
 
 Als Fächer werden Elektrotechnik und Mathematik festgelegt.
 
-Ich informiere mein Schulamt über die Gleichwertigkeitsfeststellung und bitte um Informationen darüber, wie ich zu einer Nachqualifizierung ("Referendariat" für Seiteneisteiger) für das Lehramt an Berufsschulen komme. Das Schulamt bestätigt den Eingang und bistte mich um etwas Geduld.
+Ich informiere mein Schulamt über die Gleichwertigkeitsfeststellung und bitte um Informationen darüber, wie ich zu einer Nachqualifizierung ("Referendariat" für Seiteneisteiger) für das Lehramt an Berufsschulen komme. Das Schulamt bestätigt den Eingang und bittet mich um etwas Geduld.
 
 [TMBJS](https://bildung.thueringen.de/lehrkraefte/seiteneinsteiger)
