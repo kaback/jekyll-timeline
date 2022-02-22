@@ -4,7 +4,13 @@ date: 2008-08-01 00:00:00 -0700
 enddate: 2016-06-30 00:00:00 -0700
 ---
 
-Ich harbeite als Softwareentwickler und Ingenieur für Hochfrequezmesstechnik bei Kathrein-Technotrend in Erfurt.
+Ich bin Dipl.-Ing.(FH) Elektrotechnik und arbeite als Softwareentwickler und Ingenieur für Hochfrequezmesstechnik bei Kathrein-Technotrend in Erfurt.
+
+Vor meiner Stelle bei Kathrein war ich für verschiedene Unternehmen in unterschiedlichen Positionen tätig.
+
+Die Arbeit bei Kathrein hat wirklich viel Spaß gemacht und ich hätte das gut bis zu meiner Rente aushalten können. Leider kam es anders.
+
+Ich sage ja immer: "Alles ändert sich, immer, und das ist auch gar nicht schlimm".
 
 [Kathrein](https://www.kathrein-ds.com/)
 
