@@ -1,6 +1,7 @@
 ---
 title: Ich werde Arbeitslos
-date: 2017-09-31 00:00:00 -0700
+date: 2016-06-30 00:00:00 -0700
+enddate: 2016-10-30 00:00:00 -0700
 ---
-Mein ursprünglicher Arbeitgeber schließt sein Entwicklungsbüro in Erfurt. Ich bewerbe mich bei verschiedenen Arbeitgebern als Ingenieur und auf eine auf 9 Monate befristete Stelle als Dozent für Elektrotechnik und Informatik an einer privaten Fachschule.
+Kathrein schließt das Entwicklungsbüro in Erfurt. Ich suche nach einem neuen Job.
 
