@@ -1,5 +1,5 @@
 ---
-title: Antrag auf Feststellung der Gleichwertigkeit - Teil 1
+title: Antrag auf Feststellung der Gleichwertigkeit - Teil 2
 date: 2021-09-28 00:00:00 -0700
 ---
 
