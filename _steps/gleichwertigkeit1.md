@@ -9,4 +9,6 @@ Der Antrag wird abgelehnt. Grund: Ich habe nur ein Fh-Diplom, brauche aber einen
 
 Das Ministerium rät mir, nebenberuflich den Universitätsabschluss nachzuholen. Dazu bietet die Universität Erfurt einen passenden Zertifikatsstudiengang Mathematik an.
 
+Da meine Stelle nur befristet ist, kommt diese Möglichkeit für mich zunächst nicht in Frage.
+
 [TMBJS](https://bildung.thueringen.de/lehrkraefte/seiteneinsteiger)
