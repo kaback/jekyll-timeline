@@ -21,7 +21,7 @@ defaults:
 markdown: kramdown
 highlighter: rouge
 lsi: false
-description: your resume
+description: Mein Weg vom Fachhochschulingenieur zum richtigen Lehrer
 baseurl: "/jekyll-timeline"
 url: https://kaback.github.io
 color: "#f2f2f2"
