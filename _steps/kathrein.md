@@ -8,9 +8,5 @@ Ich bin Dipl.-Ing.(FH) Elektrotechnik und arbeite als Softwareentwickler und Ing
 
 Vor meiner Stelle bei Kathrein war ich für verschiedene Unternehmen in unterschiedlichen Positionen tätig.
 
-Die Arbeit bei Kathrein hat wirklich viel Spaß gemacht und ich hätte das gut bis zu meiner Rente aushalten können. Leider kam es anders.
-
-Ich sage ja immer: "Alles ändert sich, immer, und das ist auch gar nicht schlimm".
-
 [Kathrein](https://www.kathrein-ds.com/)
 
