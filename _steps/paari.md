@@ -8,7 +8,4 @@ Nach gescheiterten Gehaltsverhandlungen mit der privaten Schule unterschreibe ic
 
 Verhandelt war eine Probezeit von 3 Monaten.
 
-
-
-
 [Paari](https://www.paari.de/)
